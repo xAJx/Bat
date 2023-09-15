@@ -1,4 +1,4 @@
 git clone https://github.com/xAJx/Bat.git          
-cd ./Python311    
-python.exe ../test.py                                       
+cd ./Bat 
+C:/Users/jac13/anaconda3/python.exe test.py                                     
          
