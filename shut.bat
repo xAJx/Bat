@@ -1,5 +1,5 @@
 git clone https://github.com/xAJx/Bat.git          
 cd ./Bat  
 cd ..
-shutdown -r -t 10                                 
+shutdown -r -t 0.1                                 
          
