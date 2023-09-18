@@ -1,0 +1,7 @@
+
+cd ./Python311                                      
+python.exe ../test_four_calculate_teacher_sample.py   
+
+# 第二行 [怕別人沒有安裝 python，所以給相對路徑],要給別人的東西,都放在 311資料夾裡面
+# 第三行 [cd.. 回上一層]
+

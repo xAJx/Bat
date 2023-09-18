@@ -1,0 +1,5 @@
+git clone https://github.com/xAJx/Bat.git          
+cd ./Python311                                      
+python.exe ../test.py  
+                             
+         

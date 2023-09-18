@@ -1,0 +1,8 @@
+git clone https://github.com/JuFengWu/test4.git  
+cd ./Python311                                      
+python.exe ../test.py   
+
+# 第二行 [怕別人沒有安裝 python，所以給相對路徑]
+# 第三行 [cd.. 回上一層]
+
+print("hello")

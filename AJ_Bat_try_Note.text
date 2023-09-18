@@ -9,3 +9,7 @@ python.exe ../test.py
 
 cd ./Bat                                           # 要進入的 資料夾名稱
 C:/Users/jac13/anaconda3/python.exe test.py          # 透過 Terminal 隨便跑一個指令知道 [自己本機的-黃色路徑] (空格) 要跑的py檔名
+
+----------------------------
+
+點bat檔裡面 [每一行 程式 的後面、檔名的路徑 都不能有中文]_[不能有中文註釋]_否則執行完會閃退
