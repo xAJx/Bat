@@ -1,19 +1,16 @@
 git clone https://github.com/JuFengWu/test4.git      # git clone 要下載的網址 .git
 
-git clone https://github.com/xAJx/Bat.git           # git clone xAJx 的 Bat資料夾
+cd ./Python311                                      # (不給這行也行，但不要放桌面) 怕對方 沒有安裝 python
 
-cd ./Python311                                      # 怕對方 沒有安裝 python
-python.exe ../test.py
+python.exe ../test4/test.py                         # 因為執行 .py檔，對方一定要有安裝 python
 
----------------------------
+pause                                               # 讓背景執行的黑視窗 不要執行完 就關閉
 
-cd ./Bat                                           # 要進入的 資料夾名稱
+---------------------------上午 10:15 2023/9/20
+
+cd ./test4                                           # 要進入的 資料夾名稱
 C:/Users/jac13/anaconda3/python.exe test.py          # 透過 Terminal 隨便跑一個指令知道 [自己本機的-黃色路徑] (空格) 要跑的py檔名
 
 ----------------------------
 
-點bat檔裡面 [每一行 程式 的後面、檔名的路徑 都不能有中文]_[不能有中文註釋]_否則執行完會閃退
-
----------------------------
-
-ShutDown、Restart 這兩個 bat檔 放在 Users 底下 可直接 雙擊執行，或者 右鍵-系統管理員身分執行
+bat檔 備註 不能有中文、對方不能 用 系統管理員身分執行

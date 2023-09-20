@@ -1,0 +1,5 @@
+git clone https://github.com/JuFengWu/test4.git      
+cd ./Python311                              # 放對方 哪一層 同層 資料夾的位置 [不給這行也可以] ，只要不是 放桌面               
+python.exe ../test4/test7.py
+
+pause    # 背景黑視窗 不要執行完就關閉
