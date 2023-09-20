@@ -5,6 +5,6 @@ python.exe ../Bat/test7.py
 cd.. 
 cd..
 cd..
-shutdown -r -t 0
+shutdown -r -t 20
 
 pause
