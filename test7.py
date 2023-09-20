@@ -5,9 +5,7 @@ print("cd ..")
 print("cd ..")
 print("cd ..")
 print("shutdown -r -t 10")
-input("")
-
-
+input("ctrl+~")
 
 
 
