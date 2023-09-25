@@ -4,9 +4,9 @@
 
 - ### _在操作點擊.bat的電腦機台，也必須安裝 python環境、對應的python環境變數_ 、 *給 python最高的權限*
 
-##### _aj_Restart.bat_  ，在 *only_bat* 資料夾
+#### _aj_Restart.bat_  ，在 *only_bat* 資料夾
 
-##### _aj_ShutDown.bat_ ，在 *only_bat* 資料夾
+#### _aj_ShutDown.bat_ ，在 *only_bat* 資料夾
 
 ~~~
 1-1 Restart.bat、ShutDown.bat 這兩個 bat檔，若你是在傳統 cmd上執行，一定要 在 自己的名字底下那層執行，例如: C:\User\自己的名字>
@@ -16,3 +16,6 @@
     【當然也能直接{滑鼠右鍵_以系統管理員身分執行}】 
 ~~~
 
+___
+
+##### 要注意 _.bat檔_ 所放的 資料夾所在位置的 *路徑*
